@@ -1,0 +1,20 @@
+{
+  "name": "Tatusbackendtrain",
+  "version": "1.0.0",
+  "description": "Just for trying to try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatu-crypto/Tatusbackendtrain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatu-crypto/Tatusbackendtrain/issues"
+  },
+  "homepage": "https://github.com/Tatu-crypto/Tatusbackendtrain#readme"
+}
